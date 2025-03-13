@@ -13,18 +13,15 @@
     "ios/Plugin/",
     "CapacitorCommunitySpeechRecognition.podspec"
   ],
-  "author": "Priyank Patel <priyank.patel@stackspace.ca>",
-  "contributors": [
-    "Matteo Padovano <mrbatista@users.noreply.github.com>"
-  ],
-  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/capacitor-community/speech-recognition.git"
+    "url": "git+https://github.com/MedFlyt/capacitor-speech-recognition"
   },
   "bugs": {
-    "url": "https://github.com/capacitor-community/speech-recognition/issues"
+    "url": "https://github.com/MedFlyt/capacitor-speech-recognition"
   },
+  "author": "Bini Barazany <bgt636@gmail.com>",
+  "license": "MIT",
   "keywords": [
     "capacitor",
     "plugin",
